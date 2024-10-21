@@ -49,7 +49,10 @@ Calling out known issues can help limit users opening duplicate issues against y
 
 ### 1.0.0
 
-Initial release :`20/10/2024`
+Initial release :`21/10/2024`
+
+### 1.1.0
+Added More Snippets
 
 ## Working with Markdown
 
