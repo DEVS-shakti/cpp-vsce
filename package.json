@@ -2,7 +2,7 @@
   "name": "Cpp-s",
   "displayName": "Cpp-shakti",
   "description": "cpp snippet",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -14,7 +14,7 @@
       {
         "language": "cpp",
         "path": "./snippets/snippets.code-snippets",
-        "url": "https://github.com/DEVS-shakti/cpp-vsce"
+        "url": "https://github.com/DEVS-shakti/cpp-vsce/main"
 
       }
     ]
