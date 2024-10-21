@@ -1,0 +1,22 @@
+{
+  "name": "Cpp-s",
+  "displayName": "Cpp-shakti",
+  "description": "cpp snippet",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "cpp",
+        "path": "./snippets/snippets.code-snippets",
+        "url": "https://github.com/DEVS-shakti/vscode-cpp-snippet/"
+
+      }
+    ]
+  }
+}
